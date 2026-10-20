@@ -10,14 +10,9 @@ The exercises introduce fundamental OOP concepts and demonstrate how software ca
 
 ## Contents
 
-### Exercise 1
+### Gym Chaos Simulator
 
-An introductory exercise covering the foundations of object-oriented programming, including:
-
-- Classes and Objects
-- Attributes and Methods
-- Constructors
-- Encapsulation
+A simulation project that applies object-oriented programming concepts to model interactions within a gym environment.
 
 ### Tic-Tac-Toe Project
 
