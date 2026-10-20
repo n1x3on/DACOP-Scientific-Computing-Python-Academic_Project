@@ -1,21 +1,21 @@
-# Object-Oriented Programming Exercise 1
+# Gym Chaos Simulator
 
 ## Overview
 
-This notebook contains introductory exercises on Object-Oriented Programming (OOP) in Python completed as part of the DACOP course.
+Gym Chaos Simulator is an object-oriented programming project developed as part of the DACOP coursework.
 
-The exercises focus on understanding how classes and objects can be used to organize code and model real-world problems in a structured and reusable way.
+The project models a dynamic gym environment using classes and objects to represent participants, behaviors, and interactions. The simulation demonstrates how object-oriented design can be used to organize complex systems and manage interacting entities.
 
 ---
 
 ## Topics Covered
 
 - Classes and Objects
-- Attributes and Methods
-- Constructors (`__init__`)
-- Instance Variables
 - Encapsulation
-- Basic OOP Design Principles
+- Instance Attributes
+- Class Methods
+- Simulation Logic
+- Object Interactions
 
 ---
 
@@ -26,15 +26,16 @@ The exercises focus on understanding how classes and objects can be used to orga
 
 ---
 
-## Learning Objectives
+## Skills Demonstrated
 
-- Understand the fundamentals of object-oriented programming
-- Design simple classes and objects
-- Develop reusable and maintainable code
-- Apply OOP concepts to practical programming exercises
+- Object-Oriented Programming
+- Software Design
+- State Management
+- Simulation Development
+- Problem Solving
 
 ---
 
-## Course Context
+## Learning Outcome
 
-This exercise was completed as part of the **DACOP (Data Analysis and Computational Optimization)** coursework during my M.Sc. Artificial Intelligence studies at FAU Erlangen-Nürnberg.
+This project strengthened my understanding of modeling real-world scenarios through object-oriented programming and designing structured, reusable code.
