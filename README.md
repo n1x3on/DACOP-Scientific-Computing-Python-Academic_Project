@@ -7,6 +7,7 @@ This repository contains coursework, programming exercises, and mini-projects co
 The course focuses on scientific programming, object-oriented software development, numerical computing, and data analysis using Python.
 
 Repository Structure
+
 oop/
 
 ├── exercise-1/
