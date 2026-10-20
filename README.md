@@ -1,88 +1,177 @@
-# DACOP-Scientific-Computing-Python-Academic_Project
-Coursework and projects from the DACOP module at FAU, covering Python, Object-Oriented Programming, NumPy, Pandas, scientific computing, and data analysis.
+# DACOP: Scientific Computing and Data Analysis with Python
 
-DACOP: Scientific Computing and Data Analysis with Python
-This repository contains coursework, programming exercises, and mini-projects completed during the DACOP module at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) as part of my M.Sc. Electromobility ACES studies.
+This repository contains coursework, programming exercises, and mini-projects completed during the **Data Analysis and Computational Optimization (DACOP)** module at **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** as part of my **M.Sc. Artificial Intelligence** studies.
 
-The course focuses on scientific programming, object-oriented software development, numerical computing, and data analysis using Python.
+The course introduced core concepts in scientific programming, object-oriented software development, numerical computing, and data analysis using Python.
 
-Repository Structure
+---
 
-oop/
+## Repository Structure
 
-├── exercise-1/
+```text
+DACOP-Scientific-Computing-Python-Academic_Project/
 
-└── tic-tac-toe/
+├── oop/
+│   ├── README.md
+│   ├── gym-chaos-simulator/
+│   └── tic-tac-toe/
+│
+├── numpy/
+│   └── treasure-hunt/
+│
+├── pandas/
+│   └── data-analysis-project/
+│
+├── assignments/
+│   ├── exercise-1/
+│   └── exercise-2/
+│
+├── docs/
+│
+├── assets/
+│
+├── requirements.txt
+│
+└── README.md
+```
 
-numpy/
+---
 
-└── treasure-hunt/
+# Featured Projects
 
-pandas/
+## 🏋️ Gym Chaos Simulator
 
-└── data-analysis-project/
+An object-oriented simulation project that models interactions within a gym environment using Python classes and objects.
 
-assignments/
+### Skills Demonstrated
 
-├── exercise-1/
+- Object-Oriented Programming
+- Software Design
+- State Management
+- Simulation Development
+- Problem Solving
 
-└── exercise-2/
+**Screenshot location:**
 
-docs/
-assets/
+```text
+assets/gym_chaos_simulator.png
+```
 
-Featured Projects
-❌⭕ Tic-Tac-Toe (Object-Oriented Programming)
+---
 
-A complete command-line game showcasing object-oriented software design, game logic, and user interaction.
+## 🎮 Tic-Tac-Toe
 
-screenshot location:
+A command-line Tic-Tac-Toe game developed using object-oriented design principles.
+
+### Features
+
+- Human vs Computer gameplay
+- Win and draw detection
+- Input validation
+- Replay functionality
+
+### Skills Demonstrated
+
+- OOP Design
+- Game Logic
+- Control Flow
+- User Interaction
+
+**Screenshot location:**
+
+```text
 assets/tic_tac_toe_demo.png
+```
 
-🔍 Treasure Hunt (NumPy)
+---
 
-A grid-based treasure hunting game built using NumPy arrays and randomized map generation.
+## 🔍 Treasure Hunt with NumPy
 
-screenshot location:
+A grid-based treasure hunting game implemented using NumPy arrays and randomized map generation.
+
+### Skills Demonstrated
+
+- NumPy Arrays
+- Array Indexing
+- Random Number Generation
+- Algorithmic Thinking
+
+**Screenshot location:**
+
+```text
 assets/numpy_treasure_hunt.png
+```
 
-📊 Data Analysis Project (Pandas)
+---
 
-A practical data analysis project exploring data cleaning, exploration, visualization, and interpretation.
+## 📊 Data Analysis Project
 
-screenshot location:
+A practical data analysis project using Pandas to explore, clean, analyze, and visualize data.
+
+### Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+
+**Screenshot location:**
+
+```text
 assets/pandas_project.png
+```
 
-Technologies Used
-Python
-NumPy
-Pandas
-Matplotlib
-Jupyter Notebook
+---
 
-Key Skills Demonstrated
-Object-Oriented Programming
-Scientific Computing
-Data Analysis
-Numerical Computation
-Problem Solving
-Data Visualization
-Software Development
+# Technologies Used
 
-Learning Outcomes
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
-Through this course I developed practical experience in:
+---
 
-Writing clean and maintainable Python code
-Designing software using OOP principles
-Numerical computing using NumPy
-Data analysis using Pandas
-Visualizing data with Matplotlib
-Solving computational problems efficiently
-Author
+# Key Skills Developed
 
-Adithya Narayanan
+- Object-Oriented Programming
+- Scientific Computing
+- Data Analysis
+- Numerical Computation
+- Data Visualization
+- Computational Problem Solving
+- Software Development
+
+---
+
+# Learning Outcomes
+
+Throughout this course I gained practical experience in:
+
+- Writing clean and maintainable Python code
+- Designing software using object-oriented programming principles
+- Performing numerical computations with NumPy
+- Working with real-world datasets using Pandas
+- Creating visualizations for data interpretation
+- Applying computational methods to solve technical problems
+
+---
+
+# About the Course
+
+DACOP combines programming fundamentals with scientific computing and data analysis techniques commonly used in engineering, automation, artificial intelligence, and research applications.
+
+The course emphasizes practical problem solving through hands-on programming exercises and mini-projects.
+
+---
+
+# Author
+
+**Adithya Narayanan**
 
 M.Sc. Artificial Intelligence
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+
+GitHub: https://github.com/n1x3on
