@@ -14,13 +14,17 @@ oop/
 └── tic-tac-toe/
 
 numpy/
+
 └── treasure-hunt/
 
 pandas/
+
 └── data-analysis-project/
 
 assignments/
+
 ├── exercise-1/
+
 └── exercise-2/
 
 docs/
