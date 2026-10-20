@@ -8,7 +8,9 @@ The course focuses on scientific programming, object-oriented software developme
 
 Repository Structure
 oop/
+
 ├── exercise-1/
+
 └── tic-tac-toe/
 
 numpy/
